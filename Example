@@ -1,7 +1,11 @@
 Enter the folder path to count files in: C:/Users/YourName/Downloads
-
 Number of files in 'C:/Users/YourName/Downloads': 42
 
 Do you want to count files recursively in subfolders? (y/n): y
-
 Total number of files in 'C:/Users/YourName/Downloads' (including subfolders): 100
+
+Do you want to see a breakdown of file types? (y/n): y
+File types in 'C:/Users/YourName/Downloads':
+.jpg: 12
+.pdf: 5
+No extension: 25
